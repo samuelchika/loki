@@ -1,0 +1,40 @@
+2025-01-02 14:58:17,626 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 14:58:18,632 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 14:58:19,638 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 14:58:20,641 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 14:58:21,642 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 14:58:22,647 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 14:58:23,652 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 14:58:24,657 level=WARNING app=myapp component=database Warning: Resource usage high
+2025-01-02 14:58:25,663 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 14:58:26,668 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 14:59:33,247 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 14:59:34,253 level=WARNING app=myapp component=database Warning: Resource usage high
+2025-01-02 14:59:35,259 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 14:59:36,264 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 14:59:37,268 level=WARNING app=myapp component=database Warning: Resource usage high
+2025-01-02 14:59:38,269 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 14:59:39,275 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 14:59:40,277 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 14:59:41,282 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 14:59:42,284 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 15:40:13,914 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 15:40:14,919 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 15:40:15,925 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 15:40:16,930 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 15:40:17,936 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 15:40:18,940 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 15:40:19,943 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 15:40:20,949 level=WARNING app=myapp component=database Warning: Resource usage high
+2025-01-02 15:40:21,954 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 15:40:22,955 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 15:41:10,447 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 15:41:11,452 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 15:41:12,457 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 15:41:13,459 level=INFO app=myapp component=database Information: Application running normally
+2025-01-02 15:41:14,465 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 15:41:15,470 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2025-01-02 15:41:16,475 level=INFO app=myapp component=backend Information: Application running normally
+2025-01-02 15:41:17,476 level=WARNING app=myapp component=backend Warning: Resource usage high
+2025-01-02 15:41:18,482 level=ERROR app=myapp component=database Critical error: Database connection lost
+2025-01-02 15:41:19,484 level=INFO app=myapp component=backend Information: Application running normally
